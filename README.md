@@ -23,3 +23,5 @@ User Story 1:
 [user_1]:/resources/images/user_story_1.jpg "User Story 1"
 
 To view bookmarks, navigate to /bookmarks
+
+Follow the steps in migrations
